@@ -1,2 +1,2 @@
 # freecodecamp4hourpython
-A repo for all the python files while watching the four hour free code camp python for beginners tutoria
+A repo for all the Python files while watching the four-hour freeCodeCamp Python for Beginners tutorial on YouTube
